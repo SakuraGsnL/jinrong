@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d3f103c-0736-4397-a8dd-340d464aab35" name="Default Changelist" comment="" />
+    <list default="true" id="4d3f103c-0736-4397-a8dd-340d464aab35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/src/main/java/com/bw/test/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-server/src/main/java/com/bw/test/Demo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka/target/" />
@@ -19,12 +22,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product-server/src/main/resources/mapper/ProductTypeMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -32,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/bw/vo/ProductTypeAndRates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="138">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#605#606#0" expanded="true" />
@@ -48,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/product-server/src/main/java/com/bw/test/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="483">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product-server/src/main/java/com/bw/controller/ProductTypeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="69">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/bw/pojo/PrudentType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
+            <state relative-caret-position="115">
               <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
@@ -86,6 +89,14 @@
         <option value="Interface" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -154,7 +165,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="57" />
     <option name="y" value="10" />
     <option name="width" value="1827" />
@@ -165,42 +176,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -208,8 +221,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -218,8 +231,8 @@
               <item name="bw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jinrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jinrong" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="product-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -232,8 +245,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,17 +356,25 @@
       <workItem from="1587545750267" duration="10409000" />
       <workItem from="1587628081561" duration="10505000" />
       <workItem from="1587700592154" duration="9742000" />
+      <workItem from="1587992541069" duration="874000" />
     </task>
+    <task id="LOCAL-00001" summary="a1">
+      <created>1587992700350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587992700350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32245000" />
+    <option name="totallyTimeSpent" value="33119000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="10" width="1827" height="1012" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21279004" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,14 +390,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32992035" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.30716723" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.29284164" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24957556" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -393,6 +412,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a1" />
+    <option name="LAST_COMMIT_MESSAGE" value="a1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -658,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/bw/pojo/PrudentType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/bw/pojo/Rates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -676,23 +692,6 @@
             <element signature="e#581#582#0" expanded="true" />
             <element signature="e#613#614#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product-server/src/main/java/com/bw/controller/ProductTypeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product-server/src/main/resources/mapper/ProductTypeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -710,10 +709,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/product-server/src/main/resources/mapper/ProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/bw/vo/ProductTypeAndRates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="138">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
@@ -724,10 +730,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/product-server/src/main/java/com/bw/controller/ProductTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/bw/pojo/PrudentType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/product-server/src/main/java/com/bw/test/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="483">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
