@@ -11,15 +11,7 @@ public class Demo {
 
         public static void main(String args[]){
             System.out.println("Hi World");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
-            System.out.println("aaa结点");
+            System.out.println("啊啊啊");
             System.out.println("啊啊啊");
         }
 
