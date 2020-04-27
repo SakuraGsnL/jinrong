@@ -20,6 +20,7 @@ public class Demo {
             System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
             System.out.println("啊啊啊啊啊啊啊啊啊啊啊啊啊啊");
             System.out.println("aaa结点");
+            System.out.println("啊啊啊");
         }
 
 }

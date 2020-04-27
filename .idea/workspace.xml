@@ -336,9 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.UserApplication" />
         <item itemvalue="Spring Boot.ProductServerApplication" />
         <item itemvalue="Spring Boot.PojoApplication" />
-        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.ProductServerApplication" />
+        <item itemvalue="Spring Boot.PojoApplication" />
       </list>
     </recent_temporary>
   </component>
